@@ -1,0 +1,7 @@
+{
+    "name" : "mattsmithdev",
+   "require": {
+        "codeception/codeception": "^2.1",
+        "monolog/monolog": "^1.17"
+    }
+}

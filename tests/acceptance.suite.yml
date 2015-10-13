@@ -1,0 +1,8 @@
+class_name: WebGuy
+modules:
+    enabled:
+        - WebDriver
+    config:
+        WebDriver:
+            url: 'http://localhost:8888'
+            browser: 'firefox'
